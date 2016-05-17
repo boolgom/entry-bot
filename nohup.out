@@ -1,0 +1,5 @@
+{ _value: undefined,
+  _status: 0,
+  _fulfilledCallbacks: [],
+  _rejectedCallbacks: [],
+  _progressCallbacks: [] }
