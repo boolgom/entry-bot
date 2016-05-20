@@ -1,5 +1,13 @@
 # entry-bot
+
+
 entry bot
 
-pip install JPype1
-pip install konlpy
+
+## setup project
+
+We need konlpy.
+
+
+    pip install JPype1
+    pip install konlpy
